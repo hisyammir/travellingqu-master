@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[80],{1270:function(e,n,t){"use strict";t.r(n);var a=t(253),c=t(254),r=t(257),i=t(255),u=t(256),o=t(2),l=t.n(o),p=function(e){function n(){return Object(a.a)(this,n),Object(r.a)(this,Object(i.a)(n).apply(this,arguments))}return Object(u.a)(n,e),Object(c.a)(n,[{key:"render",value:function(){return l.a.createElement("div",null,"DetailPaketPerjalanan")}}]),n}(o.Component);n.default=p}}]);
+//# sourceMappingURL=80.6ee22052.chunk.js.map
