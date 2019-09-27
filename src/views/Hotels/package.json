@@ -1,0 +1,6 @@
+{
+  "name": "Hotels",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Hotels.js"
+}
